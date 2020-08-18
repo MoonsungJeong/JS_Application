@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <style>
+            .scale{
+                display:grid;
+                grid-template-columns: repeat(3, minmax(0,1fr));
+                grid-gap:10px 10px;
+                padding:10px;
+                border: 3px solid red;
+            }
+            .grid-item{
+                width:100%;
+                overflow: hidden;
+                transition: all 0.2s ease-in-out;
+                border:1px solid blue;
+            }
+            .grid-item:hover{
+                transform: translateY(-5px);
+            }
+            img{
+                width:100%;
+                transition: all 0.2s ease-in-out;
+            }
+            img:hover{
+                transform: scale(1.1);
+            }
+        </style>
+    </head>
+    <body>
+        <div class="scale">
+            <div class="grid-item"><img src="image/game.png"></img></div>
+            <div class="grid-item"><img src="image/game.png"></img></div>
+            <div class="grid-item"><img src="image/game.png"></img></div>
+            <div class="grid-item"><img src="image/game.png"></img></div>
+            <div class="grid-item"><img src="image/game.png"></img></div>
+            <div class="grid-item"><img src="image/game.png"></img></div>
+        </div>
+    </body>
+</html>
