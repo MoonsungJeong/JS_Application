@@ -26,3 +26,4 @@ module.exports = [{
         filename: 'init_bundle.js'
     }
 }];
+//

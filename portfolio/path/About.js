@@ -15,7 +15,7 @@ var about = `
                         <p>
                             Hi! I’m Moonsung, a Korean web developer based in Brisbane, Australia
                             <br><br>
-                            I first got into computers because of computer games. While at high school, I became curious to know more about game how the games work. I started just by using a game editor to make a modified version of Warcraft III. This is why I decided to learn more about computer engineering in university.
+                            I first got into computers because of computer games. While at high school, I became curious to know more about how the games work. I started just by using a game editor to make a modified version of Warcraft III. This is why I decided to learn more about computer engineering in university.
                             <br><br>
                             I now have a bigger passion for computers and coding, because I have learned that coding has unlimited possibilities and that I can make anything I imagine by coding. I always do my best to learn new languages and technologies to improve my skills. I also like thinking of ways to combine IT with other fields to add creative value.
                         </P>
@@ -42,8 +42,8 @@ var about = `
                 </div>
                 <div class="col_t12_x4">
                     <h2>LINKS</h2>
-                    <div class="card-content">
-                        <p>LINKS@@@@@@</p>
+                    <div class="card-content links-container">
+                        <p><a href="http://game.moonsungjeong.com" target="_blank">http://game.moonsungjeong.com</a></p>
                     </div>
                 </div>
                 <div class="col_t12_x4">
