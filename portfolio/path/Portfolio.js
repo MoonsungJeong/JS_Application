@@ -47,6 +47,18 @@ var portfolio = `
                         </div>
                     </div>
                 </a>
+                <a href="https://github.com/MoonsungJeong/Node_webboard" target="_blank">
+                    <div class="project-item">
+                        <div class="project-img-box">
+                            <span class="project-category">Web App</span>
+                            <img src="image/webboard.png"></img>
+                        </div>
+                        <div class="project-explanation">
+                            <h3 class="project-title">Web Board</h3>
+                            <h4 class="project-brief">Node, MySQL, Gmail API</h4>
+                        </div>
+                    </div>
+                </a>
                 <a href="#">
                     <div class="project-item">
                         <div class="project-img-box">
@@ -55,7 +67,7 @@ var portfolio = `
                         </div>
                         <div class="project-explanation">
                             <h3 class="project-title">Next Project</h3>
-                            <h4 class="project-brief">React? NodeJS?</h4>
+                            <h4 class="project-brief">React</h4>
                         </div>
                     </div>
                 </a>

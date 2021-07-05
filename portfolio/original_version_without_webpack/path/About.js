@@ -27,12 +27,14 @@ var about = `
                 <div class="col_t12_x4">
                     <h2>SKILLS</h2>
                     <div class="card-content skill-container">
-                        <div><img class="skill-img" src="image/html.png"></img></div>
-                        <div><img class="skill-img" src="image/css.png"></img></div>
-                        <div><img class="skill-img" src="image/javascript.png"></div>
-                        <div><img class="skill-img" src="image/github.png"></div>
-                        <div><img class="skill-img" src="image/aws.png"></div>
-                        <div><img class="skill-img" src="image/webpack.png"></div>
+                        <div><img class="skill-img" title="HTML" alt="HTML" src="image/html.png"></img></div>
+                        <div><img class="skill-img" title="CSS" alt="CSS" src="image/css.png"></img></div>
+                        <div><img class="skill-img" title="JavaScript" alt="JavaScript" src="image/javascript.png"></div>
+                        <div><img class="skill-img" title="Node.js" alt="Node.js" src="image/node.png"></div>
+                        <div><img class="skill-img" title="MySQL" alt="MySQL" src="image/database.png"></div>
+                        <div><img class="skill-img" title="GitHub" alt="GitHub" src="image/github.png"></div>
+                        <div><img class="skill-img" title="AWS" alt="AWS" src="image/aws.png"></div>
+                        <div><img class="skill-img" title="Webpack" alt="Webpack" src="image/webpack.png"></div>
                     </div>
                 </div>
                 <div class="col_t12_x4">

@@ -26,4 +26,4 @@ module.exports = [{
         filename: 'init_bundle.js'
     }
 }];
-//
+//npx webpack --config webpack.config.js
